@@ -7,6 +7,3 @@ greeting
 greeting
 greeting
 greeting
-
-
-
